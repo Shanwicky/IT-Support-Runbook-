@@ -1,7 +1,6 @@
 # IT-Support-Runbook-
 45 IT support runbooks covering identity management, network infrastructure, and system security. validated in a Windows Server 2016 and VMware home lab.
 
-IT 
 
 ## 📌 Project Overview
 This repository contains Compilation of 45 technical runbooks covering critical IT infrastructure, security, identity management, and systems troubleshooting. This portfolio was developed through deep research into corporate IT support structures and real-world employee desktop pain points as Student-Project.
@@ -27,7 +26,7 @@ Each runbook follows a strict, highly scannable corporate framework ensuring ope
 * [01. Password Reset / Account Lockout](runbooks/01_password_lockout.md)
 * [02. MFA/2FA Failure](runbooks/02_mfa_failure.md)
 * [03. No Internet Access](runbooks/03_no_internet.md)
-  etc...... 
+  etc......
 
----
-*Maintained by the IT Support Team. Document Version Control: Last Updated December 2025.*
+
+
