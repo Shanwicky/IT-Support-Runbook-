@@ -14,7 +14,7 @@ To bridge the gap between theory and practical engineering, the core identity, n
 * **Client Environment:** Windows 10 Enterprise VMs utilizing dummy accounts to simulate corporate endpoints
 
 ## 📂 Portfolio Structure
-Each runbook follows a strict, highly scannable corporate framework ensuring operational readiness:
+Each runbook follows a strict, highly scannable framework ensuring operational readiness:
 1. **Symptoms:** Common end-user indicators and error codes.
 2. **Root Causes:** Underlying technical triggers.
 3. **Fix Steps:** Step-by-step remediation procedures.
